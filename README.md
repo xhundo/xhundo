@@ -1,4 +1,4 @@
-# Full-stack Developer
+<h1 align=center>Full-stack Software Engineer</h1>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,express,mongodb,figma)](https://skills.thijs.gg)
 
