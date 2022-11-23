@@ -1,6 +1,6 @@
 # Full-stack Developer
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,node,express,mongodb,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,express,mongodb,figma)](https://skills.thijs.gg)
 
 <!--
 **xhundo/xhundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
