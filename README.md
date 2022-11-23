@@ -1,6 +1,6 @@
 <h1 align=center>Full-stack Software Engineer</h1>
 <div align=center>
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,express,mongodb,figma)](https://skills.thijs.gg)
+<img src="[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,express,mongodb,figma)](https://skills.thijs.gg)"/>
 </div>
 
 <!--
