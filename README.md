@@ -1,6 +1,6 @@
 <h1 align=center style="font-size: 32px">Full-stack Software Engineer</h1>
 <div align=center>
-  <p>Skills</p>
+  <h2>Skills</h2>
 <img src="https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,express,mongodb,figma"/>
 </div>
 
