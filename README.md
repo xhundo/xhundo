@@ -5,6 +5,7 @@
 </div>
 <div align=center>
   <h1>Full-stack Software Engineer</h1>
+  <p>Current Skills</p>
 <img src="https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,express,mongodb,figma"/>
 </div>
 
