@@ -4,9 +4,11 @@
 </div>
 </div>
 <div align=center>
-  <h1>Full-stack Software Engineer</h1>
+  <h1 style="font-size: 16px">Hey, I am a full-stack software engineer</h1>
   <p>Current Skills</p>
-<img src="https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,express,mongodb,figma"/>
+<img src="https://skills.thijs.gg/icons?i=html,css,js,git,react,nodejs,express,mongodb,figma"/>
+  <p>New skills I am learning</P>
+  <img src="https://skills.thijs.gg/icons?i=ts,nextjs,"/>
 </div>
 
 <!--
