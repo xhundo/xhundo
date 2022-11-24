@@ -1,9 +1,10 @@
-<style>
-<img src="V4-(White).png" style="width: 50px"/> {display-flex} {justify-content: center}:
-</style>
-<h1 align=center style="font-size: 32px">Full-stack Software Engineer</h1>
+<div style="display: flex">
 <div align=center>
-  <p>Skills</p>
+<img src="V4-(White).png" style="width: 200px" /> 
+</div>
+</div>
+<div align=center>
+  <h1>Full-stack Software Engineer</h1>
 <img src="https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,express,mongodb,figma"/>
 </div>
 
