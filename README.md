@@ -1,4 +1,6 @@
-<img src="V4-(White).png" style="width: 50px" align=center/>
+<style>
+<img src="V4-(White).png" style="width: 50px"/> {display-flex} {justify-content: center}:
+</style>
 <h1 align=center style="font-size: 32px">Full-stack Software Engineer</h1>
 <div align=center>
   <p>Skills</p>
