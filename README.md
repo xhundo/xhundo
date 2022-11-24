@@ -1,3 +1,4 @@
+<img src="https://www.dropbox.com/sh/4d1aehk6sxzohr4/AAAS0MyzUD-wwTt7Vu4kYSiQa/V4?dl=0&preview=V4-(White).png&subfolder_nav_tracking=1"/>
 <h1 align=center style="font-size: 32px">Full-stack Software Engineer</h1>
 <div align=center>
   <p>Skills</p>
