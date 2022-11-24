@@ -1,4 +1,4 @@
-<img src="V4-(White).png"/>
+<img src="V4-(White).png" style="width: 30px height: 30px"/>
 <h1 align=center style="font-size: 32px">Full-stack Software Engineer</h1>
 <div align=center>
   <p>Skills</p>
