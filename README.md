@@ -8,7 +8,7 @@
   <p>Current Skills</p>
 <img src="https://skills.thijs.gg/icons?i=html,css,js,git,react,nodejs,express,mongodb,figma"/>
   <p style="font-weight: bold">I am learning. . . </P>
-  <img src="https://skills.thijs.gg/icons?i=ts,nextjs,"/>
+  <img src="https://skills.thijs.gg/icons?i=tailwind,ts,nextjs,"/>
 </div>
 
 <!--
