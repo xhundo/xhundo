@@ -5,10 +5,9 @@
 </div>
 <div align=center>
 <!--   <h1 style="font-size: 16px">Hey, I am a full-stack software engineer.</h1> -->
-  <h3>Current Skills</h3>
+
 <img src="https://skills.thijs.gg/icons?i=html,css,js,git,react,nodejs,express,mongodb,figma"/>
-  <h3 style="font-weight: bold">I am learning. . . </h3>
-  <img style="margin-left: 10px:"src="https://skills.thijs.gg/icons?i=tailwind,ts,"/>
+ 
 </div>
 
 <!--
