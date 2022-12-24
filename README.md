@@ -1,6 +1,6 @@
 <div style="display: flex">
 <div align=center>
-<img src="V4-(White).png" style="width: 200px" /> 
+<img src="V4-(White).png" style="width: 100px" /> 
 </div>
 </div>
 <div align=center>
